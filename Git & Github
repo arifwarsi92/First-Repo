@@ -1,0 +1,18 @@
+Hi, Welcome to my Git & Github Repo. In this Repo I am going to let you know that How to download and Configure.
+1.Download Git:
+•	Go to the Git for Windows download page.
+•	Click on this link https://git-scm.com/download/win
+•	The download should start automatically. If not, click on the download link.
+2.Run the Installer:
+•	Locate the downloaded file (usually named Git-x.y.z-64-bit.exe) and double-click it.
+•	Follow the installation wizard:
+      1.	Select Destination Location: Choose where Git will be installed.
+      2.	Select Components: You can typically keep the default components.
+      3.	Choosing the default editor used by Git: You can select an editor (e.g., Vim, Nano, or Notepad++), or stick with the default (Vim).
+      4.	Adjusting your PATH environment: Choose "Git from the command line and also from 3rd-party software" for default settings.
+      5.	Choosing HTTPS transport backend: The default option "Use the OpenSSL library" is recommended.
+      6.	Configuring the line ending conversions: Choose "Checkout Windows-style, commit Unix-style line endings" for default settings.
+      7.	Configuring the terminal emulator to use with Git Bash: The default "Use MinTTY" is generally recommended.
+      8.	Configuring extra options: You can typically leave the defaults.
+•	Click Install and wait for the process to complete.
+•	Click Finish to complete the installation.
